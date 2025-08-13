@@ -491,6 +491,16 @@ footer img {
 
 /* Menu Mobile */
 @media (max-width: 768px) {
+  .hero {
+    background-image: none;
+    background-image: linear-gradient(
+      to top,
+      var(--corPreto) 80%,
+      var(--corAzul) 20%
+    );
+    transition: background 0.5s ease;
+  }
+
   header nav.menuDesktop ul {
     gap: 20px;
   }
@@ -503,6 +513,17 @@ footer img {
     width: 100px;
     height: 30px;
     font-size: 0.9rem;
+  }
+
+  footer img {
+    max-width: 90px;
+  }
+
+  .imgSobre img {
+    max-width: 300px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
   }
 }
 
@@ -529,5 +550,13 @@ footer img {
 
   .hero .txtHero h1 span {
     font-size: 2rem;
+  }
+
+  footer img {
+    max-width: 90px;
+  }
+
+  .imgSobre img {
+    max-width: 200px;
   }
 }
