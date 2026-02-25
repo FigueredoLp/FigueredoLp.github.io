@@ -26,8 +26,8 @@ Foi desenvolvido com foco em **design responsivo** e **boa performance**.
 
 ## 📬 Contato
 - ✉️ Email: viviny.99@gmail.com  
-- 💼 LinkedIn: [seu-linkedin](https://linkedin.com/in/vinicius-figueredo-lopes)  
-- 🐙 GitHub: [seu-github](github.com/FigueredoLp)  
+- 💼 LinkedIn: [linkedin.com/in/vinicius-figueredo-lopes](https://linkedin.com/in/vinicius-figueredo-lopes)  
+- 🐙 GitHub: [github.com/FigueredoLp](github.com/FigueredoLp)  
 
 ---
 
