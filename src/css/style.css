@@ -397,7 +397,9 @@ header.rolagem button {
   align-items: center;
 }
 
-.contatosComIcones p {
+.contatosComIcones p,
+.contatosComIcones a {
+  text-decoration: none;
   font-family: "Open Sans", sans-serif;
   color: var(--corCinza);
   font-size: 1.2rem;
@@ -405,6 +407,11 @@ header.rolagem button {
   display: flex;
   align-items: center;
   gap: 10px;
+  transition: 0.5s;
+}
+.contatosComIcones a:hover {
+  color: var(--corAzul);
+  transition: 0.5s;
 }
 
 .contatosComIcones i {
