@@ -188,6 +188,10 @@ header.rolagem button {
   gap: 50px;
 }
 
+.sobreMim .imgSobre img {
+  mask-image: linear-gradient(var(--corPreto) 70%, transparent);
+}
+
 .textSobre p {
   color: var(--corCinza);
   text-align: justify;
