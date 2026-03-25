@@ -70,7 +70,7 @@ header .interface {
 
 header .interface .logoHeader img {
   max-width: 10em;
-  transition: 1s;
+  transition: 1s ease-in-out;
 }
 
 header nav.menuDesktop ul {
@@ -83,12 +83,12 @@ header nav.menuDesktop ul {
 
 header.rolagem {
   background-color: var(--corPreto);
-  transition: 1s;
+  transition: 1s ease-in-out;
 }
 
 header.rolagem img {
   width: 60px;
-  transition: 1s;
+  transition: 1s ease-in-out;
 }
 
 header.rolagem a {
