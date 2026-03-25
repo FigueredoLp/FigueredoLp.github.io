@@ -7,11 +7,13 @@ Aqui você encontrará o código-fonte completo e poderá conhecer um pouco mais
 ---
 
 ## 🔗 Acesse o Portfólio Online
+
 ➡️ [Clique aqui para visitar o site](https://figueredolp.github.io/)
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
+
 - **HTML5** 📄
 - **CSS3** 🎨
 - **JavaScript** ⚡
@@ -19,15 +21,17 @@ Aqui você encontrará o código-fonte completo e poderá conhecer um pouco mais
 ---
 
 ## 📌 Sobre o Projeto
+
 O objetivo deste portfólio é apresentar meus trabalhos, experiências e permitir um contato direto com recrutadores e empresas interessadas.  
 Foi desenvolvido com foco em **design responsivo** e **boa performance**.
 
 ---
 
 ## 📬 Contato
-- ✉️ Email: viviny.99@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/vinicius-figueredo-lopes](https://linkedin.com/in/vinicius-figueredo-lopes)  
-- 🐙 GitHub: [github.com/FigueredoLp](github.com/FigueredoLp)  
+
+- ✉️ Email: viniciusflopes.dev@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/vinicius-figueredo-lopes](https://linkedin.com/in/vinicius-figueredo-lopes)
+- 🐙 GitHub: [github.com/FigueredoLp](github.com/FigueredoLp)
 
 ---
 
